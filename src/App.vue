@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    再一次的改变 再一次改变
+    设置12点到23点自动部署 周一到周日
     <h1>hello world</h1>
   </div>
   <!-- <router-view /> -->
