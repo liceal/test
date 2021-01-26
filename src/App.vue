@@ -1,6 +1,7 @@
 <template>
   <div id="nav">
     设置12点到23点自动部署 周一到周日
+    自动部署测试
     <h1>hello world</h1>
   </div>
   <!-- <router-view /> -->
