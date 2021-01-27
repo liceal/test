@@ -4,7 +4,7 @@ FROM node:latest as js_builder
 # 打包项目生成dict
 COPY . /build
 WORKDIR /build
-RUN npm config set registry https://registry.npmjs.org/
+RUN npm config set registry https://registry.npm.taobao.org
 RUN npm install
 RUN npm run build
 
